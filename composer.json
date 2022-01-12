@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "openboleto/openboleto":"dev-duobox-master",
+        "openboleto/openboleto":"dev-dev-ls@dev",
         "quilhasoft/jasperphp":"dev-dev-ls@dev"
     }
 }
