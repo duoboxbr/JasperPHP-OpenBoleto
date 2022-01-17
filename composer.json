@@ -14,6 +14,6 @@
     "require": {
         "php": ">=7.0",
         "openboleto/openboleto":"dev-dev-ls@dev",
-        "quilhasoft/jasperphp":"dev-dev-ls@dev"
+        "quilhasoft/jasperphp":"dev-duobox-dev@dev"
     }
 }
